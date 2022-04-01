@@ -62,3 +62,5 @@ console.log("err1Result===", err1Result);
 
 const err2Result = checkErrors(errors2);
 console.log("err1Result===", err2Result);
+
+const ats = isInputOk(str);
