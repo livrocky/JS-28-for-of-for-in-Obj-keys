@@ -8,3 +8,5 @@ export default class PersonEs6 {
     console.log(`Hello I am ${this.name} and I am ${this.age} years old`);
   }
 }
+
+//____//
